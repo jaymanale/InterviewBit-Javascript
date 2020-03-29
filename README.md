@@ -4,7 +4,7 @@
 ### Linked List
 | #        | Problem | Solution  |
 | ------------- |:-------------:| -----:|
-| 1     | [Palindrome List](http://tiny.cc/7vn3lz)  | [Github](shorturl.at/qAHUW) OR [Medium](shorturl.at/uzALM) |
-| 2 | [Remove Duplicates From Sorted List](shorturl.at/dnrtB) | [Github](https://github.com/jaymanale/InterviewBit-Javascript/blob/master/Linked%20Lists/Remove%20Duplicates%20From%20Sorted%20List.js) OR [Medium](https://medium.com/@jayram_manale/interviewbit-4-remove-duplicates-from-sorted-list-570de8c60324) |
-| 3 | [Remove Duplicates From Sorted List II](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-list-ii/) | [Github](https://github.com/jaymanale/InterviewBit-Javascript/blob/master/Linked%20Lists/Remove%20Duplicates%20From%20Sorted%20List%20II.js) OR [Medium](https://medium.com/@jayram_manale/interviewbit-5-remove-duplicates-from-sorted-list-ii-31ab02141cf5) |
+| 1     | [Palindrome List](http://tiny.cc/7vn3lz)  | [Github](http://tiny.cc/kyn3lz) OR [Medium](http://tiny.cc/pzn3lz) |
+| 2 | [Remove Duplicates From Sorted List](http://tiny.cc/c0n3lz) | [Github](http://tiny.cc/t0n3lz) OR [Medium](http://tiny.cc/o1n3lz) |
+| 3 | [Remove Duplicates From Sorted List II](http://tiny.cc/f2n3lz) | [Github](http://tiny.cc/12n3lz) OR [Medium](http://tiny.cc/g3n3lz) |
 
